@@ -1,7 +1,8 @@
 const App = () => {
+
   return (
-    <div className="relative flex">
-     test
+    <div>
+      test
     </div>
   );
 };
